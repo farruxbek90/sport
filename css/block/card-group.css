@@ -1,0 +1,29 @@
+
+.section-groups-img {
+    margin-bottom: 25px;
+    border-radius: 20px;
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.2);
+}
+.section-groups-title {
+    font-family: var(--font-accent);
+    font-weight: 700;
+    font-size: 43px;
+    letter-spacing: 0.07em;
+    color: var(--accent);
+}
+
+@media (max-width: 1200px) {
+    .section-groups-title {
+        font-size: 36px;
+    }
+}
+@media (max-width: 800px) {
+    .section-groups-title {
+        font-size: 26px;
+    }
+}
+@media (max-width: 600px) {
+    .section-groups-title {
+        text-align: center;
+    }
+}

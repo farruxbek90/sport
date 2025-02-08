@@ -1,0 +1,14 @@
+@import "./../imgfonts/fonts/bebasneue/bebasneue.css";
+@import "./../imgfonts/fonts/roboto/roboto.css";
+@import "./base/reset.css";
+@import "./base/base.css";
+
+@import "./block/header.css";
+@import "./block/section.css";
+@import "./block/card-trainer.css";
+@import "./block/section-beast.css";
+@import "./block/button.css";
+@import "./block/card-group.css";
+@import "./block/contacts.css";
+@import "./block/form.css";
+@import "./block/footer.css";
