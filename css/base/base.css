@@ -4,6 +4,9 @@
     --font-accent: 'Bebas Neue', sans-serif;
 
 }
+html {
+    scroll-behavior: smooth;
+}
 body {
     background-color: #1f2a32;
     color: #fafaf5;
